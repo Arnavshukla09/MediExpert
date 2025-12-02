@@ -34,7 +34,7 @@ pnpm dev
 npm run dev
 ```
 
-Open `http://localhost:3000` in your browser to view the app.
+Open `https://medi-expert.netlify.app` in your browser to view the app.
 
 ## Project structure (high level)
 

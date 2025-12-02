@@ -52,14 +52,3 @@ Open `http://localhost:3000` in your browser to view the app.
 
 - Run the app locally and navigate the symptom flow to verify diagnosis behavior.
 - Inspect `lib/diagnosis-engine.ts` to review matching logic or adjust rules.
-
-## Contributing
-
-If you want to contribute:
-
-1. Open an issue describing the change or improvement.
-2. Create a branch, implement your change, and open a pull request.
-
-## License
-
-This project does not specify a license in the repository. Add a `LICENSE` file if you intend to open source it.
